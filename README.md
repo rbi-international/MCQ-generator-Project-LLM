@@ -3,6 +3,9 @@
 ```bash
 conda create -p env python==3.8 -y
 ```
+```bash
+source activate ./venv
+```
 
 ```bash
 pip install -r requirements.txt
