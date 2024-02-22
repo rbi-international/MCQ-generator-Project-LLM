@@ -1,6 +1,6 @@
 MCQ,Choices,Correct
-What is the focus of the workshop on Generative AI at AIMLSystems?,a: Building robots | b: Developing mobile apps | c: Creating generative AI systems | d: Designing websites,c
-Which of the following is NOT a topic of interest for Generative AI at the workshop?,"a: Machine learning and Modeling using LLMs and Diffusion models | b: Responsible use of Gen AI | c: Creating virtual reality games | d: Systems, architecture and infrastructure for Generative AI",c
-What does Gen AI stand for?,a: General Artificial Intelligence | b: Generative AI | c: Genius AI | d: Generation AI,b
-What is an important consideration when deploying Generative AI solutions?,a: Using outdated technology | b: Evaluation of Language and Diffusion based models | c: Ignoring ethical concerns | d: Not collecting data,b
-What type of models are used in Multi-modal Generative AI?,a: Only language models | b: Only image models | c: Both language and image models | d: None of the above,c
+What is the focus of the workshop on Generative AI at AIMLSystems?,"a: Building robots | b: Creating realistic text, images, and video | c: Developing self-driving cars | d: Exploring outer space",b
+Which of the following is NOT a topic of interest for Generative AI discussed in the text?,"a: Systems, architecture, and infrastructure for Generative AI | b: Machine learning and Modeling using LLMs and Diffusion models | c: Creating virtual reality games | d: Responsible use of Gen AI",c
+What is one of the applications enabled by Large Language Models according to the text?,a: Creating realistic images | b: Developing self-driving cars | c: Generating text | d: Exploring outer space,c
+What type of AI is focused on in the workshop at AIMLSystems?,a: Generative AI | b: Reinforcement learning | c: Supervised learning | d: Unsupervised learning,a
+What should be considered when deploying Generative AI solutions according to the text?,"a: Scalability | b: Fairness, transparency, and accountability | c: Exploring outer space | d: Creating virtual reality games",b
