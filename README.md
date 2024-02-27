@@ -34,3 +34,7 @@ ls -a
 ```bash
 git push origin main
 ```
+
+```bash
+streamlit run StreamlittAPP.py
+```
